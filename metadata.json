@@ -1,0 +1,10 @@
+{
+    "name": "Alsamixer Controller",
+    "description": "Control alsamixer as a plugin.",
+    "shell-version": [
+        "3.36.7"
+    ],
+    "url": "",
+    "uuid": "alsamixer-control@prinsepipo.sanchez.gmail.com",
+    "version": "1.0"
+}
